@@ -1,12 +1,17 @@
-# AniQuotes API v2.5
+<div align="center">
 
-> AniQuotes Database with Multi-language support • Created by [Shinei Nouzen](https://github.com/Shineii86)
+# [AniQuotes](https://aniquotesapi.vercel.app/) Statistics
 
 ![Status](https://img.shields.io/badge/Status-Alive-brightgreen.svg)
-![Uptime](https://img.shields.io/badge/Uptime-99.99%25-brightgreen.svg)
-![Quotes](https://img.shields.io/badge/Total_Quotes-423-blue.svg)
+![Uptime](https://img.shields.io/badge/Uptime-99.23%25-brightgreen.svg)
+![Quotes](https://img.shields.io/badge/Total_Quotes-623-blue.svg)
+[![Docs](https://img.shields.io/badge/API-Documentation-yellow.svg)](https://github.com/AniQuotes/Documentation)
 ![Version](https://img.shields.io/badge/Node-v22.15.1-important.svg)
+![API Version](https://img.shields.io/badge/API-v2.5-important.svg)
+![Updated](https://img.shields.io/github/last-commit/AniQuotes/Status/main?label=Last%20Updated&style=flat)
 
+<br>
+    
 ```mermaid
 pie showData
     title Quotes by Anime
@@ -26,32 +31,7 @@ pie showData
     "English" : 423
     "Japanese" : 200
 ```
-
-## 📊 Statistics Overview
-
-| Category          | Details                          |
-|-------------------|----------------------------------|
-| **Total Quotes**  | 423                              |
-| **Languages**     | English (423), Japanese (4)      |
-| **Last Updated**  | July 6, 2025                     |
-| **Node Version**  | v22.15.1                         |
-
-
-## 🔌 API Endpoints
-**Version 1**
-- `GET /v1/random`
-- `GET /v1/anime?name=[anime]`
-- `GET /v1/character?name=[character]`
-
-**Version 2**
-- `GET /v2/languages?lang=[lang]`
-- `GET /v2/image?id=[id]`
-
-[📚 Full Documentation](https://github.com/AniQuotes/Documentation)
-
 ---
-
-<div align="center">
   
 **[AniQuotes](https://github.com/AniQuotes)** For inquiries or collaborations
      
