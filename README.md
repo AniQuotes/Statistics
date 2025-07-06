@@ -1,6 +1,6 @@
 # AniQuotes API v2.5
 
-> Anime quote database with multi-language support • Created by [Shineii86](https://github.com/Shineii86)
+> AniQuotes Database with Multi-language support • Created by [Shinei Nouzen](https://github.com/Shineii86)
 
 ![Status](https://img.shields.io/badge/Status-Alive-brightgreen.svg)
 ![Uptime](https://img.shields.io/badge/Uptime-99.99%25-brightgreen.svg)
