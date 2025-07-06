@@ -18,6 +18,15 @@ pie showData
     "Dragon Ball" : 10
 ```
 
+---
+
+```mermaid
+pie showData
+    title Quotes by Language
+    "English" : 423
+    "Japanese" : 200
+```
+
 ## 📊 Statistics Overview
 
 | Category          | Details                          |
