@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Alive-brightgreen.svg)
 ![Uptime](https://img.shields.io/badge/Uptime-99.23%25-brightgreen.svg)
-![Quotes](https://img.shields.io/badge/Total_Quotes-623-blue.svg)
+![Quotes](https://img.shields.io/badge/Total_Quotes-2,423-blue.svg)
 [![Docs](https://img.shields.io/badge/API-Documentation-yellow.svg)](https://github.com/AniQuotes/Documentation)
 ![Version](https://img.shields.io/badge/Node-v22.15.1-important.svg)
 ![API Version](https://img.shields.io/badge/API-v2.5-important.svg)
