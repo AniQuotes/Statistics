@@ -30,6 +30,15 @@ pie showData
     title Quotes by Language
     "English" : 423
     "Japanese" : 200
+    "Hindi" : 200
+    "Russian" : 200
+    "Chinese" : 200
+    "Spanish" : 200
+    "Korean" : 200
+    "French" : 200
+    "German" : 200
+    "Italian" : 200
+    "Portuguese" : 200
 ```
 ---
   
