@@ -8,7 +8,7 @@
 [![Docs](https://img.shields.io/badge/API-Documentation-yellow.svg)](https://github.com/AniQuotes/Documentation)
 ![Version](https://img.shields.io/badge/Node-v22.15.1-important.svg)
 ![API Version](https://img.shields.io/badge/API-v2.5-important.svg)
-![Updated](https://img.shields.io/github/last-commit/AniQuotes/Status/main?label=Last%20Updated&style=flat)
+![Updated](https://img.shields.io/github/last-commit/AniQuotes/Statistics/main?label=Last%20Updated&style=flat)
 
 <br>
     
