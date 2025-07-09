@@ -2,25 +2,33 @@
 
 # [AniQuotes](https://aniquotesapi.vercel.app/) Statistics
 
-![Status](https://img.shields.io/badge/Status-Alive-brightgreen.svg)
-![Uptime](https://img.shields.io/badge/Uptime-99.23%25-brightgreen.svg)
-![Quotes](https://img.shields.io/badge/Total_Quotes-2,423-blue.svg)
 [![Docs](https://img.shields.io/badge/API-Documentation-yellow.svg)](https://github.com/AniQuotes/Documentation)
 ![Version](https://img.shields.io/badge/Node-v22.15.1-important.svg)
-![API Version](https://img.shields.io/badge/API-v2.5-important.svg)
-![Updated](https://img.shields.io/github/last-commit/AniQuotes/Statistics/main?label=Last%20Updated&style=flat)
+![API Version](https://img.shields.io/badge/API-v2.5.0-important.svg)
 
 <br>
     
+**Statistics Overview**
+
+| Category          | Details       |
+|-------------------|---------------|
+| **Last Updated**  | ![Updated](https://img.shields.io/github/last-commit/AniQuotes/Statistics/main?label=Last%20Updated&style=flat)  |
+| **Total Quotes**  | [![AniQuotes Badge](https://img.shields.io/endpoint?url=https://aniquotesapi.vercel.app/badge)](https://aniquotesapi.vercel.app/badge) |
+
+---
+
 ```mermaid
 pie showData
-    title Quotes by Anime
-    "Naruto Shippuden" : 120
-    "Attack on Titan" : 100
-    "One Piece" : 100
-    "Dragon Ball Z" : 63
-    "Dragon Ball Super" : 30
-    "Dragon Ball" : 10
+      title Quotes by Anime
+      "Naruto Shippuden": 120
+      "Attack on Titan": 100
+      "One Piece": 100
+      "Dragon Ball": 10
+      "Dragon Ball Z": 63
+      "Dragon Ball Super": 30
+      "Solo Leveling": 100
+      "Your Name": 78
+      "86-Eight Six": 100
 ```
 
 ---
@@ -28,7 +36,7 @@ pie showData
 ```mermaid
 pie showData
     title Quotes by Language
-    "English" : 423
+    "English" : 701
     "Japanese" : 200
     "Hindi" : 200
     "Russian" : 200
