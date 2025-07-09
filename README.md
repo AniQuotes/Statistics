@@ -4,16 +4,11 @@
 
 [![Docs](https://img.shields.io/badge/API-Documentation-yellow.svg)](https://github.com/AniQuotes/Documentation)
 ![Version](https://img.shields.io/badge/Node-v22.15.1-important.svg)
-![API Version](https://img.shields.io/badge/API-v2.5.0-important.svg)
+[![Updated](https://img.shields.io/github/last-commit/AniQuotes/Statistics/main?label=Last%20Updated&style=flat)](https://aniquotesapi.vercel.app)
+[![API Version](https://img.shields.io/badge/API-v2.5.0-important.svg)](https://aniquotesapi.vercel.app)
+[![AniQuotes Badge](https://img.shields.io/endpoint?url=https://aniquotesapi.vercel.app/badge)](https://aniquotesapi.vercel.app/badge)
 
 <br>
-    
-**Statistics Overview**
-
-| Category          | Details       |
-|-------------------|---------------|
-| **Last Updated**  | ![Updated](https://img.shields.io/github/last-commit/AniQuotes/Statistics/main?label=Last%20Updated&style=flat)  |
-| **Total Quotes**  | [![AniQuotes Badge](https://img.shields.io/endpoint?url=https://aniquotesapi.vercel.app/badge)](https://aniquotesapi.vercel.app/badge) |
 
 ---
 
